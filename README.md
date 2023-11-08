@@ -1,6 +1,6 @@
 # meeting-notes-generator-example
 
-Tutorial from OpenAI 
+## Tutorial from OpenAI 
 
 Creating an automated meeting minutes generator with Whisper and GPT-4
 
